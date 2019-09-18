@@ -1,8 +1,8 @@
-### 교재 : 초보자를 위한 파이썬 200제 - 장삼용 저
+# python_and_Github_practice
 
 ### 목적
-* 파이썬 관련 예제를 실습하고, 분석하여 주석을 달고, 변형하는 실습 관련 repo
 * 파이썬을 이용한 game의 변형 및 발전 실험
+  + (main reference : 초보자를 위한 파이썬 200제 - 장삼용 저)
 * 오픈소스 프로젝트 실험용 습작 레파지토리로 사용됩니다.
   + travis-ci, codacy, lgtm, 이슈트레커 적용해보기
   + Description, Code of conduct, Contributing, License, Issue templates, Pull Request template 등 문서화
