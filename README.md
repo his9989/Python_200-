@@ -9,3 +9,5 @@
   + Commit 분리하는 방법 실험
   + flake8 - 파이썬 표준 맞춰주는 작업, pipenv, semantic version 조사
 * github.io (github page) : https://his9989.github.io/python_and_Github_practice/
+
+### Testing Commit을 위한 Readme.md 수정입니다.
